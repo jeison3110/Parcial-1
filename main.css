@@ -1,0 +1,20 @@
+.forma /* funcion que se llama desde el html */
+{
+	width: 20dp ;
+}
+
+.forma th
+{
+	background-color: black;
+	color: white;
+}
+
+.forma td:
+{
+	width: 100%;
+}
+
+.forma td input[type="text"], input[type="password"]
+{
+	width: 100%;
+}
